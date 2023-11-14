@@ -56,6 +56,6 @@
 
 ###
 
-![Snake animation](https://github.com/rishwal/rishwal/blob/output/snake.svg)
+![Snake animation](https://github.com/rishwal/profile/blob/be1ff4e5dce92d5e5200d6df4f7268333f3ec36e/snake.svg)
 
 ###
