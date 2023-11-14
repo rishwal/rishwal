@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rishwal/rishwal/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rishwal/rishwal/blob/output/snake.svg)
 
 ###
