@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! I am Rishwal.A Mern stack developer 👋</h2>
+<h2 align="left">Hi there ! I am Rishwal, a fullstack web developer👋</h2>
 
 ###
 
