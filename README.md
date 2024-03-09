@@ -14,7 +14,7 @@
 
 - 📫 Mail me : 🔗 **rishwal10@gmail.com**
 
-- 📄 Know about my experiences 🔗 [View my resume]( https://drive.google.com/file/d/1_9bey2ecnaY34GCb3TtvmNkU_mualQRz/view?usp=sharing](https://drive.google.com/file/d/1P6AgXhFCQnRxDt3iGnLSaAUlXjQJmoZm/view?usp=sharing)](https://drive.google.com/file/d/1P6AgXhFCQnRxDt3iGnLSaAUlXjQJmoZm/view?usp=sharing )
+- 📄 Know about my experiences 🔗 [View my resume](https://drive.google.com/file/d/1P6AgXhFCQnRxDt3iGnLSaAUlXjQJmoZm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
