@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishwal" alt="rishwal" /></a> </p>
 
-- 💻 I’m currently working on [A CRM Porject for Bridgeon](https://github.com/bridgeon-solution)
+- 💻 I’m currently working on [A CRM Porject for Bridgeon](https://github.com/bridgeon-solution) as a team lead
 
 - 🎯 I’m currently learning **ASP.NET Core ,Entity Frame Work,Raect.js and Microsoft SQL Server**
 
